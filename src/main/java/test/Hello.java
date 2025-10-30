@@ -22,6 +22,7 @@ public class Hello extends HttpServlet {
 		out.println("Fork");
 		out.println("ハリルです");
 		out.println("ハリルです!!!!!");
+		out.println("introduction分岐");
 		out.println(new java.util.Date());
 	}
 }
